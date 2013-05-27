@@ -1,0 +1,18 @@
+{
+  "folders": [{
+    "ios": [
+      {"url": "./imgs/ios/001.png"},
+      {"url": "./imgs/ios/002.png"},
+      {"url": "./imgs/ios/003.png"},
+      {"url": "./imgs/ios/004.png"},
+      {"url": "./imgs/ios/005.png"}
+    ],
+    "android": [
+      {"url": "./imgs/android/001.png"},
+      {"url": "./imgs/android/002.png"},
+      {"url": "./imgs/android/003.png"},
+      {"url": "./imgs/android/004.png"},
+      {"url": "./imgs/android/005.png"}
+    ]
+  }]
+}
