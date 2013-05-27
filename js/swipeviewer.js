@@ -41,8 +41,8 @@ $( function() {
                 options = options || {};
             
             this.container      = options.container || $('#container');
-            this.path           = options.path || 'img/';
-            this.fileType       = options.fileType || 'jpg';
+            this.path           = options.path || 'imgs/';
+            this.fileType       = options.fileType || 'png';
             this.preloadImages  = [];
             this.currentIndex   = 0;
                         
